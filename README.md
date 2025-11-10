@@ -110,4 +110,5 @@ Business Impact & Insights
 3.Optimized ad budget allocation based on ROI and engagement patterns.
 
 6. Screenshots / Demos
-7. https://github.com/Mayuri-ai/MetaAdPerformanceDashboard/blob/main/MetaAdPerformance_InstaDashboard.png
+   https://github.com/Mayuri-ai/MetaAdPerformanceDashboard/blob/main/MetaAdPerformance_InstaDashboard.png
+   https://github.com/Mayuri-ai/MetaAdPerformanceDashboard/blob/main/MetaAdPerformance_FBDashboard.png
